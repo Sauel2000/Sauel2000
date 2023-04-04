@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sauel2000
 - 👀 I’m interested in C++, Datastructures&Algorithms, C, Linux, Python, Object oriented programming, system arcitecture and thrive with difficult programming languages.
-- 🌱 I’m currently writing specializing in Cybersecurity and AI and writing my bachelors in imageprocessing.
+- 🌱 I am writing my bachelors in imageprocessing. In my free time I like to work with cybersecurity and AI.
 -
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me samuel.said00@outlook.com
