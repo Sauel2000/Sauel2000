@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sauel2000
+- 👋 Hi, I’m @Samuel2000
 - 👀 I’m interested in C++, Datastructures&Algorithms, C, Linux, Python, Object oriented programming, system arcitecture and thrive with difficult programming languages.
 - 🌱 I am writing my bachelors in imageprocessing. In my free time I like to work with cybersecurity and AI.
 -
